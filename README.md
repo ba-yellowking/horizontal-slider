@@ -1,7 +1,7 @@
 # ImageSlider
-[EN] A horizontal infinite image slider implemented through HTML, CSS, and JavaScript.
-
-[RU] Горизонтальный бесконечный слайдер изображений, реализованный с помощью HTML, CSS и JavaScript.
+A smooth, infinite horizontal image slider that is controlled by vertical scroll.<br>
+Teck stack: **HTML**, **CSS**, and **JavaScript**. <br>
+Many thanks to Conor Bailey for youtube tutorials.
 
 ## Screenshot
 <img src="./public/screenshot.png" alt="Image Slider" width="1000"/>
