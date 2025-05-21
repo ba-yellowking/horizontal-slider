@@ -3,5 +3,5 @@ A smooth, infinite horizontal image slider that is controlled by vertical scroll
 Teck stack: **HTML**, **CSS**, and **JavaScript**. <br>
 Many thanks to Conor Bailey for youtube tutorials.
 
-## Screenshot
+## YouTube
 [![YouTube](https://img.youtube.com/vi/jVcD_jEtNsE/0.jpg)](https://www.youtube.com/watch?v=jVcD_jEtNsE)
