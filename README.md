@@ -4,4 +4,4 @@ Teck stack: **HTML**, **CSS**, and **JavaScript**. <br>
 Many thanks to Conor Bailey for youtube tutorials.
 
 ## Screenshot
-<img src="./public/screenshot.png" alt="Image Slider" width="1000"/>
+[![YouTube](https://img.youtube.com/vi/jVcD_jEtNsE/0.jpg)](https://www.youtube.com/watch?v=jVcD_jEtNsE)
